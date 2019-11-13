@@ -12,7 +12,7 @@
   - [2]Original_Crack_DataSet_1024_1024,the data set is used to test the DBCC model and contains 2068 bridge crack image with a resolution of 1024 * 1042 and it is
        available online：http://pan.baidu.com/s/1bplPrPl
 - The data set is primarily used to study the detection and extraction algorithms of bridge cracks and is not allowed for commercial purposes;
-       If you want to use this data set, we would you to refer to the corresponding paper.
+       If you want to use this dataset, please cite this paper
 # Author：
            Liangfu Li Weifei Ma  Li Li Xiaoxiao Gao
 # Location：
