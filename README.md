@@ -1,6 +1,6 @@
-# Research on Detection Algorithm for Bridge Cracks Based on Deep Learning. 
+# Research on Detection Algorithm for Bridge Cracks Based on Deep Learning
 # Description 
-- The data set is mainly used to train the DBCC model and detect the bridge cracks.
+- The dataset is mainly used to train the DBCC model and detect the bridge cracks.
 # Paper Link:
 - LI Liang-Fu, MA Wei-Fei, LI Li, LU Cheng. Research on Detection Algorithm for Bridge Cracks Based on Deep Learning. Acta Automatica Sinica, 2019, 45(9): 1727-1742.
 - 李良福, 马卫飞, 李丽, 陆铖. 基于深度学习的桥梁裂缝检测算法研究. 自动化学报, 2019, 45(9): 1727-1742
