@@ -1,5 +1,5 @@
 # Research on Detection Algorithm for Bridge Cracks Based on Deep Learning
-# Description 
+# Description
 - The dataset is mainly used to train the DBCC model and detect the bridge cracks.
 # Paper Link:
 - LI Liang-Fu, MA Wei-Fei, LI Li, LU Cheng. Research on Detection Algorithm for Bridge Cracks Based on Deep Learning. Acta Automatica Sinica, 2019, 45(9): 1727-1742.
@@ -9,8 +9,7 @@
 # Type of data:
 - Our team has published two kinds of data sets,as follows:
   - [1]Bridge_Crack_Image_Data, the data set is mainly used to train the DBCC model;
-  - [2]Original_Crack_DataSet_1024_1024,the data set is used to test the DBCC model and contains 2068 bridge crack image with a resolution of 1024 * 1042 and it is
-       available online：http://pan.baidu.com/s/1bplPrPl
+  - [2]Original_Crack_DataSet_1024_1024,the data set is used to test the DBCC model and contains 2068 bridge crack image with a resolution of 1024 * 1042 and it is available online at [[Baidu Drive]](http://pan.baidu.com/s/1bplPrPl) or [[Google Drive]](https://drive.google.com/file/d/1g27ukLMz0SQO-JtfociY6OllGb-zLoip/view?usp=sharing).
 - The data set is primarily used to study the detection and extraction algorithms of bridge cracks and is not allowed for commercial purposes;
        If you want to use this dataset, please cite this paper
 # Author：
